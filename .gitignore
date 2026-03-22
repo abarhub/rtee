@@ -29,4 +29,5 @@ target
 .idea/
 
 justfile
+sonar-project.properties
 
