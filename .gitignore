@@ -31,3 +31,5 @@ target
 justfile
 sonar-project.properties
 
+/clippy-report.json
+/lcov.info
